@@ -1,3 +1,4 @@
+import $ from 'jquery';
 const store = {
   items: [
     { id: cuid(), name: 'apples', checked: false },
